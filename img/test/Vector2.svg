@@ -1,0 +1,9 @@
+<svg id="ej25Lv8dZih1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1440 732" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+<defs>
+<linearGradient id="ej25Lv8dZih2-fill" x1="1318" y1="521.112" x2="187.078" y2="644.159" spreadMethod="pad" gradientUnits="userSpaceOnUse" gradientTransform="translate(0 0)">
+<stop id="ej25Lv8dZih2-fill-0" offset="0%" stop-color="#590d56"/>
+<stop id="ej25Lv8dZih2-fill-1" offset="100%" stop-color="#8c1688"/>
+</linearGradient>
+</defs>
+<path d="M1026.659735,0c-306.819,78.09639-271.142693,398.917493-671.680693,249.701493C216.672042,198.176493,114.83,309.891,-2,358.578v43.564c0,0,184.344942-154.72409,488.496942,184.27591c304.151,339,976.776758-28.21452,976.776758-28.21452L1440,93.9001C1322.5,37.0415,1149.479735,-31.26131,1026.659735,0Z" transform="matrix(1.01683 0 0 1-12.296618 0)" fill="url(#ej25Lv8dZih2-fill)"/>
+</svg>

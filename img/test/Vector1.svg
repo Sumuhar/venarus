@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1440"
+   height="732"
+   viewBox="0 0 1440 732"
+   fill="none"
+   version="1.1"
+   id="svg380"
+   sodipodi:docname="Vector1.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview382"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.32240437"
+     inkscape:cx="721.14407"
+     inkscape:cy="119.41525"
+     inkscape:window-width="2160"
+     inkscape:window-height="1330"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg380" />
+  <path
+     d="M 1150,8.61221 C 843.181,86.7086 842.5,458.768 441.962,309.552 303.655,258.027 114.83,309.891 -2,358.578 v 43.564 c 0,0 284.197,-150.642 588.349,188.358 304.151,339 876.9247,-32.29661 876.9247,-32.29661 L 1440,93.9001 C 1322.5,37.0415 1272.82,-22.6491 1150,8.61221 Z"
+     fill="url(#paint0_linear_2_39)"
+     id="path371"
+     sodipodi:nodetypes="cccccccc" 
+     />
+  <defs
+     id="defs378">
+    <linearGradient
+       id="paint0_linear_2_39"
+       x1="1318"
+       y1="521.112"
+       x2="187.078"
+       y2="644.159"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#590D56"
+         id="stop373" />
+      <stop
+         offset="1"
+         stop-color="#8C1688"
+         id="stop375" />
+    </linearGradient>
+  </defs>
+</svg>
