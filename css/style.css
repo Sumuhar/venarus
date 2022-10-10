@@ -3408,6 +3408,10 @@ button.swiper-pagination-bullet {
   .showmore-complex__image {
     display: none;
   }
+
+  .production__link {
+    bottom: 60px !important;
+  }
 }
 
 @media (max-width: 29.99875em) and (min-width: 30em) {
