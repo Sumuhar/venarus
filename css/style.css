@@ -377,6 +377,15 @@ body::after {
   line-height: 1.5625;
 }
 
+.popup__close {
+  margin-bottom: 0.625rem;
+  padding: 0.625rem 0.3125rem;
+  background-color: #590D56;
+  color: #fff;
+  border: 1px solid #590D56;
+  border-radius: 10px;
+}
+
 .header {
   position: relative;
   z-index: 2;
